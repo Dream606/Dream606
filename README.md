@@ -1,16 +1,18 @@
-## Hi there 👋
+# Сәлем! Менің атым - [Салық Арман] 👋  
 
-<!--
-**Dream606/Dream606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Мен - бағдарламалауға қызығатын студентпін.  
 
-Here are some ideas to get you started:
+## Қызығушылықтарым  
+- Python  
+- JavaScript  
+- Web development  
+- Machine learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Білімім  
+[Жамбыл Политехникалық Жоғаржы Коледжі], [Бағдарламалық Қамтамасыз ету]  
+
+## Байланыс  
+- 📧 Email: [Жок]  
+- 🔗 LinkedIn: [LinkedIn профиліңіздің сілтемесі]  
+
+![Менің суретім](https://github.com/your-username/your-username/blob/main/image.jpg?raw=true)
